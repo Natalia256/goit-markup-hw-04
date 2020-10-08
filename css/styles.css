@@ -282,14 +282,14 @@ margin-right: 92px;
 .social-list-link{
     display: flex;
     align-items: center;
-    /*justify-content: center;*/
+    justify-content: center;
     width: 44px;
     height: 44px;
     background-color:#FFFFFF;
     border-radius: 50%;
 }
 .social-list-link: hover{
-    background-color: var(--link-color:);
+    background-color: #000000;
 }
 .social-list-link: hover .sosial-list-svg{
       fill: var( --accent-color)
