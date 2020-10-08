@@ -29,7 +29,7 @@ body {
 .address {
     font-style: normal;
     }
-img{
+.img{
     display: block;
 
     }
@@ -69,7 +69,7 @@ img{
 .address-svg{
     height: 12px;
     width: 16px;
-    fill: var(--accent-colo)
+    fill: var(--accent-color)
 
  } 
 
@@ -292,7 +292,7 @@ margin-right: 92px;
     background-color: var(--link-color:);
 }
 .social-list-link: hover .sosial-list-svg{
-    fill: var(--futer-link-color)
+      fill: var( --accent-color)
 }
 .social-list-svg{
     width: 20px;
