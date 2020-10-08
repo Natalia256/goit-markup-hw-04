@@ -349,14 +349,13 @@ margin-right: 92px;
 .social-list-item:foter{
     /*padding-right: 30px;*/
 }
-.social-list-link:foter{
+.social-list-link:hover{
     background-color: var(--link-color);
    
 }
-    
-}  
-.social-list-link:foter .social-list-svg{
-    fill: var(--futer-link-color);
+ 
+.social-list-link:hover .social-list-svg{
+    fill: var(--accent-color);
 }
 .foter-title{
     padding-left: 70px;
