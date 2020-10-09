@@ -29,7 +29,7 @@ body {
 .address {
     font-style: normal;
     }
-.img{
+img{
     display: block;
 
     }
@@ -69,7 +69,7 @@ body {
 .address-svg{
     height: 12px;
     width: 16px;
-    fill: var(--accent-color)
+    fill: var(--accent-colo)
 
  } 
 
@@ -303,7 +303,6 @@ margin-right: 92px;
 fill: #FFFFFF;
 }
 
-    
 
 .customers-list{
     display: flex;
@@ -332,10 +331,10 @@ fill: #FFFFFF;
     
 } 
 .customers-list-svg:hover, .customers-list-svg:focus{
-fill: #2196F3
-}
-.customers-list-link:hover, .customers-list-link:focus{
-    border-color: var(--link-color);
+    fill: #2196F3
+    }
+    .customers-list-link:hover, .customers-list-link:focus{
+        border-color: var(--link-color);
    
    
 /*=====Footer=====*/
@@ -361,13 +360,14 @@ fill: #2196F3
 .social-list-item:foter{
     /*padding-right: 30px;*/
 }
-.social-list-link:hover{
+.social-list-link:foter{
     background-color: var(--link-color);
    
 }
- 
-.social-list-link:hover .social-list-svg{
-    fill: var(--accent-color);
+    
+}  
+.social-list-link:foter .social-list-svg{
+    fill: var(--futer-link-color);
 }
 .foter-title{
     padding-left: 70px;
