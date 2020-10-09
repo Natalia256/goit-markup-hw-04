@@ -320,12 +320,12 @@ fill: #FFFFFF;
     height: 90px;
     width: 170px;
    align-items: center;
-    justify-content: center;
-       display: flex;
+    display: flex;
 }
 
 
 .customers-list-svg{
+    justify-content: center;
         fill: #AFB1B8;
     
 } 
