@@ -5,7 +5,7 @@
     --link-color: #2196F3;
     --title-color:   #212121;
     --futer-link-color:  #FFFFFF;
-    --logo-color: #000000;
+    --logo-color:  #000000;
 
 }
 *,
@@ -387,6 +387,9 @@ fill: #FFFFFF;
 }
 .foter-logo{
     padding-top: 60px;  
+}
+.foter .loogo-s{
+color: #FFFFFF;
 }
 .foter-list{
     flex-direction: column;
