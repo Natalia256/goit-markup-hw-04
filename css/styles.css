@@ -358,7 +358,7 @@ fill: #FFFFFF;
 .foter .social-list-link{
     background-color: linear-gradient(
          rgba(255, 255, 255, 0.6);
-         rgba(255, 255, 255, 0.6);
+         rgba(255, 255, 255, 0.6));
 }
 
 .foter .social-list-link:hover{
