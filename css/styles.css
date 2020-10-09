@@ -355,6 +355,19 @@ fill: #FFFFFF;
     width: 276px; 
     justify-content: space-between;    
 }
+.foter .social-list-link{
+       background-color: linear-gradient(
+        rgba(47, 48, 58, 0.4),
+        rgba(47, 48, 58, 0.4));
+}
+
+
+.foter .social-list-svg{
+   fill: #FFFFFF;;
+}
+.foter .social-list-svg:hover, .social-list-svg:focus{
+fill: #FFFFFF;
+}
 
 .social-list-item:foter{
     /*padding-right: 30px;*/
