@@ -342,7 +342,7 @@ fill: #FFFFFF;
    
 /*=====Footer=====*/
 .foter{
-    background: #000000;
+    background: #2F303A;
 }
 .foter .container{
     align-items:center;
@@ -360,7 +360,7 @@ fill: #FFFFFF;
     justify-content: space-between;    
 }
 .foter .social-list-link{
-    background-color: #2F303A;
+    background-color: rgba(47, 48, 58, 0.4);
 
 }
 
