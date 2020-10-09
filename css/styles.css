@@ -356,9 +356,8 @@ fill: #FFFFFF;
     justify-content: space-between;    
 }
 .foter .social-list-link{
-    background-color: linear-gradient(
-         rgba(255, 255, 255, 0.6);
-         rgba(255, 255, 255, 0.6));
+    background-color: #FFFFFF 10 %;
+
 }
 
 .foter .social-list-link:hover{
@@ -367,7 +366,7 @@ fill: #FFFFFF;
 .foter .social-list-svg{
    fill: #FFFFFF;
 }
-.foter .social-list-svg:hover, .social-list-svg:focus{
+.foter .social-list-svg:hover, .foer .social-list-svg:focus{
 fill: #FFFFFF;
 }
 
