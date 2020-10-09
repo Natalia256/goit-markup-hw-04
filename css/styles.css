@@ -365,12 +365,12 @@ fill: #FFFFFF;
 }
 
 .foter .social-list-link:hover{
-    background-color:#2196F3;
+    background-color: #2196F3;
 }
 .foter .social-list-svg{
    fill: #FFFFFF;
 }
-.foter .social-list-svg:hover, .foer .social-list-svg:focus{
+.foter .social-list-svg:hover, .foter .social-list-svg:focus{
 fill: #FFFFFF;
 }
 
