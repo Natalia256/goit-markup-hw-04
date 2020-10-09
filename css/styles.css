@@ -289,7 +289,7 @@ margin-right: 92px;
     border-radius: 50%;
 }
 .social-list-link:hover{
-    background-color:#000000;
+    background-color:#2196F3;
 }
 .social-list-link:hover /*.sosial-list-svg*/{
       fill: var( --accent-color)
