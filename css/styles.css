@@ -305,7 +305,10 @@ margin-right: 92px;
 fill: #FFFFFF;
 }
 
-
+.customers-list{
+    display: flex;
+    padding-bottom: 94px;
+}
 .customers-list-img{
     display: flex;
        margin-right: 30px;
