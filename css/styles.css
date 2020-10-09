@@ -323,7 +323,7 @@ fill: #FFFFFF;
     border-radius: 4px;
     height: 90px;
     width: 170px;
-   align-items: center;
+  /* align-items: center;*/
     display: flex;
 }
 
