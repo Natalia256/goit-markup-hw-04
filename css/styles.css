@@ -122,7 +122,7 @@ margin-right: 92px;
         url(../images/efect/hero.jpg);
 }
 .efect-name{
-    max-width: 452 px;
+    max-width: 452px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 200px;
@@ -319,11 +319,11 @@ fill: #FFFFFF;
     border-radius: 4px;
     height: 90px;
     width: 170px;
-   
-    align-items: center;
+   align-items: center;
 }
 
 .customers-list-link{
+    display: flex;
     fill: var(--link-color)
 }
 .customers-list-svg{
