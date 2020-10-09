@@ -288,10 +288,10 @@ margin-right: 92px;
     background-color:#FFFFFF;
     border-radius: 50%;
 }
-.social-list-link: hover{
+.social-list-link:hover{
     background-color:#000000;
 }
-.social-list-link: hover /*.sosial-list-svg*/{
+.social-list-link:hover /*.sosial-list-svg*/{
       fill: var( --accent-color)
 }
 .social-list-svg{
@@ -299,7 +299,7 @@ margin-right: 92px;
     height: 20px;
     fill: #AFB1B8;
 }
-.social-list-svg: hover, .social-list-svg: focus{
+.social-list-svg:hover, .social-list-svg:focus{
 fill:#FFFFFF;
 }
 
@@ -331,7 +331,7 @@ fill:#FFFFFF;
     fill: #AFB1B8;
     
 } 
-.customers-list-svg: hover, .customers-list-svg: focus{
+.customers-list-svg:hover, .customers-list-svg:focus{
 fill: #2196F3
 }
    
