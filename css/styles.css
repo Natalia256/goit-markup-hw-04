@@ -244,8 +244,12 @@ margin-right: 92px;
     padding-right: 30px;
 }
 /*===development===*/
+.development{
+    background:   #F5F4FA;
+}
 .development .container{
     align-items:center;
+  
     
 }
 .development-list{
