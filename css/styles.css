@@ -319,7 +319,7 @@ fill: #FFFFFF;
     border-radius: 4px;
     height: 90px;
     width: 170px;
-    justify-content: center;
+   
     align-items: center;
 }
 
@@ -327,6 +327,7 @@ fill: #FFFFFF;
     fill: var(--link-color)
 }
 .customers-list-svg{
+    justify-content: center;
     display: block;
     fill: #AFB1B8;
     
