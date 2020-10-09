@@ -300,7 +300,7 @@ margin-right: 92px;
     fill: #AFB1B8;
 }
 .social-list-svg:hover, .social-list-svg:focus{
-fill:#FFFFFF;
+fill: #FFFFFF;
 }
 
     
@@ -320,10 +320,10 @@ fill:#FFFFFF;
     margin-right: 30px;
             
 }
-.customers-list-link:customers{
+.customers-list-link{
     border-color: var(--link-color);
 }
-.customers-list-link:customers .costomers-list-svg{
+.customers-list-link{
     fill: var(--link-color)
 }
 .customers-list-svg{
@@ -334,6 +334,8 @@ fill:#FFFFFF;
 .customers-list-svg:hover, .customers-list-svg:focus{
 fill: #2196F3
 }
+.customers-list-link:hover, .customers-list-link:focus{
+    border-color: var(--link-color);
    
    
 /*=====Footer=====*/
