@@ -356,6 +356,7 @@ fill: #FFFFFF;
     justify-content: space-between;    
 }
 .foter .social-list-link{
+    background-color: rgba(47, 48, 58, 0.4);
        background-color: linear-gradient(
         rgba(47, 48, 58, 0.4),
         rgba(47, 48, 58, 0.4));
@@ -369,18 +370,7 @@ fill: #FFFFFF;
 fill: #FFFFFF;
 }
 
-.social-list-item:foter{
-    /*padding-right: 30px;*/
-}
-.social-list-link:foter{
-    background-color: var(--link-color);
-   
-}
-    
-}  
-.social-list-link:foter .social-list-svg{
-    fill: var(--futer-link-color);
-}
+
 .foter-title{
     padding-left: 70px;
     font-style: normal;
