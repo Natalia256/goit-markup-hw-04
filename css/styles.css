@@ -332,9 +332,10 @@ fill: #FFFFFF;
 } 
 .customers-list-svg:hover, .customers-list-svg:focus{
     fill: #2196F3
-    }
-    .customers-list-link:hover, .customers-list-link:focus{
+ }
+ .customers-list-link:hover, .customers-list-link:focus{
         border-color: var(--link-color);
+}
    
    
 /*=====Footer=====*/
