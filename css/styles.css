@@ -328,8 +328,12 @@ fill:#FFFFFF;
 }
 .customers-list-svg{
     display: block;
+    fill: #AFB1B8;
     
 } 
+.customers-list-svg: hover, .customers-list-svg: focus{
+fill: #2196F3
+}
    
    
 /*=====Footer=====*/
