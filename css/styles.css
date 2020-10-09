@@ -299,6 +299,11 @@ margin-right: 92px;
     height: 20px;
     fill: #AFB1B8;
 }
+.social-list-svg: hover: focus{
+fill:#FFFFFF;
+}
+
+    
 
 .customers-list{
     display: flex;
