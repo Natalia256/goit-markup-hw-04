@@ -356,13 +356,14 @@ fill: #FFFFFF;
     justify-content: space-between;    
 }
 .foter .social-list-link{
-    background-color: #FFFFFF;
-       background-color: linear-gradient(
-        rgba(47, 48, 58, 0.4),
-        rgba(47, 48, 58, 0.4));
+    background-color: linear-gradient(
+         rgba(255, 255, 255, 0.6);
+         rgba(255, 255, 255, 0.6);
 }
 
-
+.foter .social-list-link:hover{
+    background-color:#2196F3;
+}
 .foter .social-list-svg{
    fill: #FFFFFF;
 }
