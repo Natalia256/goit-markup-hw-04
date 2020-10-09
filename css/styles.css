@@ -324,6 +324,7 @@ fill: #FFFFFF;
 .customers-list-link{
     border-color: var(--link-color);
 }
+
 .customers-list-link{
     fill: var(--link-color)
 }
