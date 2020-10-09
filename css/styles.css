@@ -320,16 +320,13 @@ fill: #FFFFFF;
     height: 90px;
     width: 170px;
    align-items: center;
+    justify-content: center;
+       display: flex;
 }
 
-.customers-list-link{
-    display: flex;
-    fill: var(--link-color)
-}
+
 .customers-list-svg{
-    justify-content: center;
-    display: block;
-    fill: #AFB1B8;
+        fill: #AFB1B8;
     
 } 
 .customers-list-svg:hover, .customers-list-svg:focus{
