@@ -126,11 +126,11 @@ margin-right: 92px;
         url(../images/efect/hero.jpg);
 }
 .efect-name{
-    max-width: 452px;
+    max-width: 1000px;
     margin-left: auto;
     margin-right: auto;
-    margin-bottom: 200px;
-    margin-top: 200px;
+    margin-bottom: auto;
+    margin-top: auto;
    
 }
 .efect-h {
