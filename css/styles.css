@@ -301,19 +301,22 @@ margin-right: 92px;
     height: 44px;
     background-color:#FFFFFF;
     border-radius: 50%;
+    color: #AFB1B8;
 }
 .social-list-link:hover{
     background-color:#2196F3;
+    fill: #FFFFFF;
 }
 
 .social-list-svg{
     width: 20px;
     height: 20px;
-    fill: #AFB1B8;
+    fill: currentcolor;
+   /* fill: #AFB1B8;*/
 }
-.social-list-svg:hover, .social-list-svg:focus{
+/*.social-list-svg:hover, .social-list-svg:focus{
 fill: #FFFFFF;
-}
+}*/
 
 .customers-list{
     display: flex;
