@@ -131,6 +131,8 @@ margin-right: 92px;
     margin-right: auto;
     margin-bottom: auto;
     margin-top: auto;
+    padding-bottom: 200px;
+    padding-top: 200px;
    
 }
 .efect-h {
@@ -140,7 +142,6 @@ margin-right: 92px;
     text-align: center;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-    pading-botttom: 200px;
     width: 696px;
     height: 120px;
     margin-bottom: 30px;
