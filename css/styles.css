@@ -358,9 +358,9 @@ fill: #FFFFFF;
 } 
 
 .customers-list-link:hover .customers-list-svg{
-    fill: #2196F3
+    fill: var(--link-color);
  }
- .customers-list-link:hover, .customers-list-link:focus{
+ .customers-list-link:hover{
         border-color: var(--link-color);
 }
    
