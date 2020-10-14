@@ -69,7 +69,7 @@ body {
 .address-svg{
     height: 12px;
     width: 16px;
-    fill: #757575;
+    fill: currentcolor;
 
  } 
 /*.address-svg:hover{
