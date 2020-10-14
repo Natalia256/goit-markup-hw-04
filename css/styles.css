@@ -315,7 +315,7 @@ margin-right: 92px;
 .social-list-svg{
     width: 20px;
     height: 20px;
-    fill: currentcolor;
+   /* fill: currentcolor;*/
    /* fill: #AFB1B8;*/
 }
 /*.social-list-svg:hover, .social-list-svg:focus{
