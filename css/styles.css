@@ -193,16 +193,16 @@ margin-right: 92px;
 
 }
 .properties-list-item:nth-child(1)::before {
-    background-image: url(../images/properties/antenna.png);
+    background-image: url(../images/properties/antenna.svg);
 }
 .properties-list-item:nth-child(2)::before {
-    background-image: url(../images/properties/clock.png);
+    background-image: url(../images/properties/clock.svg);
 }
 .properties-list-item:nth-child(3)::before {
-    background-image: url(../images/properties/diagram.png);
+    background-image: url(../images/properties/diagram.svg);
 }
 .properties-list-item:nth-child(4)::before {
-    background-image: url(../images/properties/astronaut.png);
+    background-image: url(../images/properties/astronaut.svg);
 }
 
 .abiliy-title{
