@@ -315,11 +315,14 @@ margin-right: 92px;
     height: 20px;
    fill: currentcolor;
 }
+
 .social-list-link:hover, .social-list-link:focus {
     background-color:#2196F3;
+    
+}
+.social-list-link:hover .social-list-svg{
     fill: #FFFFFF;
 }
-
   
  
 
