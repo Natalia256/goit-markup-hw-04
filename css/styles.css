@@ -344,16 +344,16 @@ fill: #FFFFFF;
   align-items: center;
     display: flex;
      justify-content: center;
-    color: #AFB1B8;
+    color: var(--accent-color);
 }
 
 
-/*.customers-list-svg{
-    justify-content: center;
+.customers-list-svg{
     
-        fill: #AFB1B8;
+        fill: currentcolor;
     
 } 
+/*
 .customers-list-svg:hover, .customers-list-svg:focus{
     fill: #2196F3
  }*/
