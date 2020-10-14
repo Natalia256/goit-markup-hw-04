@@ -316,7 +316,7 @@ margin-right: 92px;
    fill: currentcolor;
 }
 
-.social-list-link:hover, .social-list-link:focus {
+.social-list-link:hover {
     background-color:#2196F3;
     
 }
@@ -356,10 +356,10 @@ fill: #FFFFFF;
         fill: currentcolor;
     
 } 
-/*
-.customers-list-svg:hover, .customers-list-svg:focus{
+
+.customers-list-link:hover .customers-list-svg{
     fill: #2196F3
- }*/
+ }
  .customers-list-link:hover, .customers-list-link:focus{
         border-color: var(--link-color);
 }
