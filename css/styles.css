@@ -264,10 +264,11 @@ margin-right: 92px;
 }
 .development-list{
     display: flex;
+    padding-bottom: 94px;
 }
 .development-list-box{
     margin-right: 30px;
-    padding-bottom: 94px;
+    padding-bottom: 30px;
    background-color: #FFFFFF;
 }
 .development-team-name {
