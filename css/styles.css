@@ -482,6 +482,9 @@ padding-top: 20px;
     display: inline-block;
     border: 1px solid #EEEEEE
 }
+.portfolio-list-item:hover{
+    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.3);
+}
 .portfolio-list-item:not(:nth-child(3n)){
     margin-right: 30px;
 }
