@@ -307,7 +307,7 @@ margin-right: 92px;
     border-radius: 50%;
     color: #AFB1B8;
 }
-.social-list-link:hover{
+.social-list-link:hover, .social-list-link:focus {
     background-color:#2196F3;
     fill: #FFFFFF;
 }
@@ -482,7 +482,7 @@ padding-top: 20px;
     display: inline-block;
     border: 1px solid #EEEEEE
 }
-.portfolio-list-item:hover{
+.portfolio-list-item:hover, .portfolio-list-item:focus{
     box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.3);
 }
 .portfolio-list-item:not(:nth-child(3n)){
