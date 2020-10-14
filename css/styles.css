@@ -72,10 +72,6 @@ body {
     fill: currentcolor;
 
  } 
-/*.address-svg:hover{
-fill: #2196F3;
-}*/
-
 
      
 .navigation-list-link{
@@ -324,11 +320,6 @@ margin-right: 92px;
     fill: #FFFFFF;
 }
   
- 
-
-/*.social-list-svg:hover, .social-list-svg:focus{
-fill: #FFFFFF;
-}*/
 
 .customers-list{
     display: flex;
