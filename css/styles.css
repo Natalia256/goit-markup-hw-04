@@ -296,6 +296,8 @@ margin-right: 92px;
 .social-list{
     display: flex;
    justify-content: space-between;
+    margin-right: 32px;
+    margin-left: 32px;
 }
 .social-list-link{
     display: flex;
