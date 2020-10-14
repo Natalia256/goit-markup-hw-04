@@ -91,6 +91,7 @@ fill: #2196F3;
     line-height: 1.143;
     letter-spacing: 0.02em;
     color: var(--accent-color);
+    fill: #757575;
 }
 .navigation-list-link:hover,
 .navigation-list-link:focus,
@@ -98,7 +99,9 @@ fill: #2196F3;
 .header-mail-link:focus,
 .header-tel-link:hover,
 .header-tel-link:focus{
-    color: var(--link-color)
+    color: var(--link-color);
+        fill: #2196F3;
+        
 }
 .logo{
 font-family: var(--secondar-font);
